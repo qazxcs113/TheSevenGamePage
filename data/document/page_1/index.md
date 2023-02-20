@@ -4,7 +4,7 @@
 
 使用各种色彩，文字，独特的交互方式让人有非常好的使用体验。
 
-
+https://qazxcs113.github.io/TheSevenGamePage/#/document/page_1
 
 **丝滑流畅**
 
